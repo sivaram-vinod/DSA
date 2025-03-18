@@ -7,6 +7,7 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sivaram-vinod/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sivaram-vinod/DSA/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -27,4 +28,12 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sivaram-vinod/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sivaram-vinod/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
