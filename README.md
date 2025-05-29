@@ -15,10 +15,12 @@ feel free to make any corrections
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
