@@ -16,11 +16,13 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -38,4 +40,8 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sivaram-vinod/DSA/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
