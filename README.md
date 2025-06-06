@@ -11,6 +11,7 @@ feel free to make any corrections
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sivaram-vinod/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sivaram-vinod/DSA/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -53,4 +54,8 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivaram-vinod/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sivaram-vinod/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
