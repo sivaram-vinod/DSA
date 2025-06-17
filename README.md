@@ -26,6 +26,7 @@ feel free to make any corrections
 | [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivaram-vinod/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -60,12 +61,14 @@ feel free to make any corrections
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sivaram-vinod/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sivaram-vinod/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sivaram-vinod/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sivaram-vinod/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sivaram-vinod/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sivaram-vinod/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
