@@ -18,6 +18,7 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
+| [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/sivaram-vinod/DSA/tree/master/0485-max-consecutive-ones) |
@@ -75,4 +76,12 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sivaram-vinod/DSA/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
