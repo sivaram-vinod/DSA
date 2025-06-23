@@ -22,6 +22,7 @@ feel free to make any corrections
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/sivaram-vinod/DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
