@@ -18,6 +18,7 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivaram-vinod/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
@@ -88,5 +89,6 @@ feel free to make any corrections
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
