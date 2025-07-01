@@ -22,6 +22,7 @@ feel free to make any corrections
 | [0090-subsets-ii](https://github.com/sivaram-vinod/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sivaram-vinod/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -32,14 +33,17 @@ feel free to make any corrections
 | [0128-longest-consecutive-sequence](https://github.com/sivaram-vinod/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sivaram-vinod/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +95,20 @@ feel free to make any corrections
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sivaram-vinod/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sivaram-vinod/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
