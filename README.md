@@ -61,6 +61,7 @@ feel free to make any corrections
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivaram-vinod/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sivaram-vinod/DSA/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/sivaram-vinod/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ feel free to make any corrections
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sivaram-vinod/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/sivaram-vinod/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sivaram-vinod/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
