@@ -47,6 +47,7 @@ feel free to make any corrections
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivaram-vinod/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sivaram-vinod/DSA/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -60,6 +61,7 @@ feel free to make any corrections
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivaram-vinod/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sivaram-vinod/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sivaram-vinod/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sivaram-vinod/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
@@ -77,6 +79,7 @@ feel free to make any corrections
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivaram-vinod/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sivaram-vinod/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sivaram-vinod/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sivaram-vinod/DSA/tree/master/0151-reverse-words-in-a-string) |
